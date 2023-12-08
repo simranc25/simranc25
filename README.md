@@ -24,7 +24,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simranc25&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simranc25&theme=dark" height="180em" />
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <!--
 **simranc25/simranc25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
