@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%"username=simranc25&theme=dark" />
 <h1 align="center">Hi 👋, I'm Simran Chopra</h1>
 <h3 align="center">I'm [Simran Chopra], a passionate computer science student currently in my third year. I love turning ideas into code and constantly seek opportunities to learn and grow in the ever-evolving world of technology.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranc25&label=Profile%20views&color=0e75b6&style=flat" alt="simranc25" /> </p>
@@ -24,7 +24,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simranc25&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simranc25&theme=dark" height="180em" />
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"username=simranc25&theme=dark" />
 <!--
 **simranc25/simranc25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
