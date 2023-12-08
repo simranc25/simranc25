@@ -10,7 +10,7 @@
 </div><h3 align="left">Stars</h3>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=simranc25&show_icons=true&locale=en&theme=algolia" alt="simranc25" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=simranc25&theme=algolia" alt="simranc25" /></p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -26,7 +26,7 @@
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 <!--
 **simranc25/simranc25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
