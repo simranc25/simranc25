@@ -1,4 +1,4 @@
-
+# This is my personal profile repository.
 <h1 align="center">Hi 👋, I'm Simran Chopra</h1>
 <h3 align="center">I'm , a passionate computer science student currently in my third year. I love turning ideas into code and constantly seek opportunities to learn and grow in the ever-evolving world of technology.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranc25&label=Profile%20views&color=0e75b6&style=flat" alt="simranc25" /> </p>
